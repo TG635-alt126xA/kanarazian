@@ -1,1 +1,1 @@
-F3090..F30FF; Kanarazian # Kanarazian Syllabary
+F3090..F30FF; Kanarazian # Kanarazian Line Syllabary
